@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1635730524 source:c:\users\joão pedro\desktop\matrizencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	<locale.h>
+
+1635705469 c:\users\joão pedro\desktop\matrizencadeada\matriz.h
+
+1635735197 source:c:\users\joão pedro\desktop\matrizencadeada\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
+1635730524 source:c:\users\joão pedro\desktop\estrutura de dados\encadeamento_joaopedromartins\matrizencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+	<locale.h>
+
+1635705469 c:\users\joão pedro\desktop\estrutura de dados\encadeamento_joaopedromartins\matrizencadeada\matriz.h
+
+1635735197 source:c:\users\joão pedro\desktop\estrutura de dados\encadeamento_joaopedromartins\matrizencadeada\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz.h"
+
